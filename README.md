@@ -1,5 +1,5 @@
 # Ex09 Event Registration Web Application
-## Date:
+## Date: 07.10.2025
 
 ## AIM:
 To design, develop and deploy a web application for event registration.
@@ -186,6 +186,8 @@ style.css
   letter-spacing: 0;
   line-height: normal;
 }
+
+slide 2
 
 index.html
 <!DOCTYPE html>
@@ -415,6 +417,8 @@ style.css
   letter-spacing: 0;
   line-height: normal;
 }
+
+slide 3
 
 index.html
 <!DOCTYPE html>
